@@ -4,3 +4,5 @@
 # except any README.md file
 !README.md
 !**/README.md
+
+secrets.yaml
